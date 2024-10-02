@@ -10,7 +10,7 @@ Feel free to check out my projects and connect with me! 🤗💬
 
 
 ### 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingwithsobhan)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingwithsobhan) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/sobhan_gh3033)
 <hr />
 
 ### 💻 Languages and Tools:
