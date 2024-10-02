@@ -10,7 +10,7 @@ Feel free to check out my projects and connect with me! 🤗💬
 
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <h2>🛠️ My Favorite Tools</h2>
   <p>
       <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
       <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
@@ -23,6 +23,5 @@ Feel free to check out my projects and connect with me! 🤗💬
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
       <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
   </p>
 </details>
